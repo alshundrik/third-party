@@ -5,7 +5,7 @@
     "description": "new description!!!",
     "title": "ODAPI"
   },
-  "host": "odapi-dev-main.dev.oxfordlanguages.com/api/v2",
+  "host": "odapi-dev-ols-1657.dev.oxfordlanguages.com/api/v2",
   "schemes": [
     "https"
   ],
